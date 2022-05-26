@@ -1,11 +1,12 @@
 # Recursive-function
 
-##Aim: To write a C# program to reverse a number using recursive function.
+## Aim: 
+To write a C# program to reverse a number using recursive function.
 
-##Algorithm:
+## Algorithm:
 
-##Program:
+## Program:
 
-##Output:
+## Output:
 
-##Result:
+## Result:
