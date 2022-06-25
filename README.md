@@ -1,4 +1,6 @@
-# Recursive-function
+### EX NO : 07
+### DATE  : 18.05.2022
+# <p align="center">Recursive-function</p>
 
 ## Aim: 
 To write a C# program to reverse a number using recursive function.
@@ -6,18 +8,15 @@ To write a C# program to reverse a number using recursive function.
 ## Algorithm:
 ### Step 1:
 Create a function for reversing.
-
 ### Step 2:
 Get the number from the user.
-
 ### Step 3:
 In the function find reminder of the number and multiply it by 10 and add the reverse number.
-
 ### Step 4:
 Recusively call this function to get the reversed number.
-
 ### Step 5:
 print the reversed number.
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Program:
 ```c#
